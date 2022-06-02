@@ -92,9 +92,3 @@ please refer to the READMEs inside each of them for more information.
 
 * `.cache` caches some compiled libraries so they only need to be
   compiled once (e.g. Xilinx simulation libraries).
-
-## Stay tuned for the new features under development:
-
-   - Accelerator design flow in SystemC with Catapult HLS
-   - Dynamic partial reconfiguration SoC flow
-   - New machine learning and cryptography accelerators
