@@ -1,4 +1,4 @@
-**AKER: Safe and Secure SoC Access Control
+## AKER: Safe and Secure SoC Access Control
 
 Abstract: The growing popularity of modular system-on-chip (SoC) architectures presents an increas- ing need for defense against sensitive data access from malicious hardware. In security-critical applications, IP cores have different privilege levels for accessing shared resources, which must be regulated by an access control system. AKER is an existing high-performance modular access control framework for AMBA AXI4 on-chip interconnects. We are developing an adap- tation of AKER onto network-on-chip (NoC) applications to form a high-bandwidth access control wrapper (ACW). Our adaptation is to be implemented onto ESP, an open-source rapid SoC development platform created by the University of Columbia. We have successfully set up the ESP project, and will integrate a simplified AKER access control module into the project in the coming weeks.
 
